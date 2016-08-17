@@ -1,0 +1,6 @@
+Motor	KEYWORD1
+forward	KEYWORD2
+backward	KEYWORD2
+spin_right	KEYWORD2
+spin_left	KEYWORD2
+stop	KEYWORD2
