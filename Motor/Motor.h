@@ -11,9 +11,12 @@ public:
 	void spin_right(int power);
 	void spin_left(int power);
 	void stop();
+	void move(int left_power,int right_power);
   
 private:
 	int motor_pin[4];
+	int r_pwr[2];
+	int l_pwr[2];
 };
 
 #endif

@@ -4,3 +4,4 @@ backward	KEYWORD2
 spin_right	KEYWORD2
 spin_left	KEYWORD2
 stop	KEYWORD2
+move	KEYWORD2
